@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77b027b3.chunk.css",
+    "main.js": "/static/js/main.5a27698c.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "static/css/2.f8fdd6f9.chunk.css": "/static/css/2.f8fdd6f9.chunk.css",
+    "static/js/2.a07968a2.chunk.js": "/static/js/2.a07968a2.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.84f83ee9673fb05678c46b06c36c5eb2.js": "/precache-manifest.84f83ee9673fb05678c46b06c36c5eb2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.a07968a2.chunk.js.LICENSE.txt": "/static/js/2.a07968a2.chunk.js.LICENSE.txt",
+    "static/media/Credit-Cards.png": "/static/media/Credit-Cards.18b7d4ea.png",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/circle-facebook.svg": "/static/media/circle-facebook.b3b844d3.svg",
+    "static/media/home-1.png": "/static/media/home-1.8816ad8a.png",
+    "static/media/home.svg": "/static/media/home.72d7c5e4.svg",
+    "static/media/ic-logo.png": "/static/media/ic-logo.ef18e503.png",
+    "static/media/instagram.png": "/static/media/instagram.73cde979.png",
+    "static/media/react-widgets.css": "/static/media/rw-widgets.eceddf47.ttf",
+    "static/media/nailpocket-logo.png": "/static/media/nailpocket-logo.73817251.png",
+    "static/media/slider5.png": "/static/media/slider5.4f117939.png",
+    "static/media/social-photo2.png": "/static/media/social-photo2.6ec7deee.png",
+    "static/media/store-create-1.png": "/static/media/store-create-1.6d0e5158.png",
+    "static/media/store-create-2.png": "/static/media/store-create-2.c1e2aec6.png",
+    "static/media/store-create-3.png": "/static/media/store-create-3.4691af00.png",
+    "static/media/store-create-4.png": "/static/media/store-create-4.d5674a3e.png",
+    "static/media/store-create-5.png": "/static/media/store-create-5.7c43dcd8.png",
+    "static/media/store-create-6.png": "/static/media/store-create-6.08fa14e4.png",
+    "static/media/store-create-7.png": "/static/media/store-create-7.6e5267d4.png",
+    "static/media/storeCreate.png": "/static/media/storeCreate.dcf9b35a.png",
+    "static/media/stores.png": "/static/media/stores.c3d533a6.png",
+    "static/media/subscr1.png": "/static/media/subscr1.2de89284.png",
+    "static/media/video1.png": "/static/media/video1.2c1a1905.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/css/2.f8fdd6f9.chunk.css",
+    "static/js/2.a07968a2.chunk.js",
+    "static/css/main.77b027b3.chunk.css",
+    "static/js/main.5a27698c.chunk.js"
+  ]
+}
